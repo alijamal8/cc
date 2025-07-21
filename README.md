@@ -1,10 +1,11 @@
-📦 Product Registration Web App
+📦 Product Registration Web App:
 
 A simple and fast product registration website with support for Arabic language and a minimal, user-friendly design.
 
 ⸻
 
 🚀 Features
+
 	•	📝 Quickly register new products
 	•	📊 View a log of previously sold products by date
 	•	🌐 Full support for the Arabic language (RTL layout)
@@ -13,7 +14,8 @@ A simple and fast product registration website with support for Arabic language 
 
 ⸻
 
-🌍 Language Support
+🌍 Language Support:
+
 	•	✅ Arabic (Right-to-Left layout)
 	•	🔄 Easily extendable to support more languages
 
