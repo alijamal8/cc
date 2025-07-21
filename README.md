@@ -1,2 +1,25 @@
-This project provides a simple and fast service for product registration. It is designed with a clean and minimalistic user interface, making it suitable for all user types. The website supports the Arabic language and includes a log to track previously sold products over recent days.
-The project was built using HTML, CSS, JavaScript, and Bootstrap.
+📦 Product Registration Web App
+
+A simple and fast product registration website with support for Arabic language and a minimal, user-friendly design.
+
+⸻
+
+🚀 Features
+	•	📝 Quickly register new products
+	•	📊 View a log of previously sold products by date
+	•	🌐 Full support for the Arabic language (RTL layout)
+	•	💡 Clean and responsive design using Bootstrap
+	•	🖥️ Built with HTML, CSS, and JavaScript
+
+⸻
+
+🌍 Language Support
+	•	✅ Arabic (Right-to-Left layout)
+	•	🔄 Easily extendable to support more languages
+
+🛠️ Built With
+	•	HTML
+	•	CSS
+	•	JavaScript
+	•	Bootstrap
+
